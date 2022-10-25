@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://webpeak-ferramenta.vercel.app/
+
+# Sitemaps
+Sitemap: https://webpeak-ferramenta.vercel.app/sitemap.xml

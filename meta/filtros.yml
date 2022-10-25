@@ -1,0 +1,9 @@
+filtros:
+  - slug: e-commerce
+    name: E-commerce
+  - slug: vendas
+    name: Vendas
+  - slug: marketing
+    name: Marketing
+  - slug: youtube
+    name: Youtube

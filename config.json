@@ -1,0 +1,16 @@
+{
+  "base_url": "https://webpeak-ferramenta.vercel.app/",
+  "site_title": "Webpeak",
+  "site_description": "Webpeak",
+  "site_keywords": [
+    {
+      "keyword": "SEO"
+    },
+    {
+      "keyword": "Backlinks"
+    }
+  ],
+  "posts_per_page": 100000,
+  "twitter_account": "@my-account",
+  "github_account": "webpeakbrazil"
+}

@@ -1,0 +1,53 @@
+categorias:
+  - cate: vendas
+    name: vendas
+  - cate: marketing
+    name: marketing
+  - cate: youtube
+    name: youtube
+  - cate: ferramentas-de-webmaster
+    name: ferramentas-de-webmaster
+  - cate: tutoriais
+    name: tutoriais
+  - cate: google
+    name: google
+  - cate: seo
+    name: seo
+  - cate: e-commerce
+    name: e-commerce
+  - cate: atendimento
+    name: atendimento
+  - cate: agencias
+    name: agencias
+  - cate: agencias-de-marketing
+    name: agencias-de-marketing
+  - cate: inbound-marketing
+    name: inbound-marketing
+  - cate: marketing-de-conteudo
+    name: marketing-de-conteudo
+  - cate: redes-sociais
+    name: redes-sociais
+  - cate: empreendedorismo-digital
+    name: empreendedorismo-digital
+  - cate: instagram
+    name: instagram
+  - cate: plataforma-de-e-commerce
+    name: plataforma-de-e-commerce
+  - cate: blog
+    name: blog
+  - cate: backlinks
+    name: backlinks
+  - cate: datas-comemorativas
+    name: datas-comemorativas
+  - cate: inteligencia-artificial
+    name: inteligencia-artificial
+  - cate: meios-de-pagamento
+    name: meios-de-pagamento
+  - cate: e-mail-marketing
+    name: e-mail-marketing
+  - cate: open-source
+    name: open-source
+  - cate: quadrante-webpeak
+    name: quadrante-webpeak
+  - cate: market-place
+    name: market-place
